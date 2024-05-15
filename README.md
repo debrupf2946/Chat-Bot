@@ -4,5 +4,5 @@ A personalized, friendly, simple, humorous chatbot that is developed using React
 
 
 <div class="col">
-      <img align="left" src="https://github.com/jelonmusk/sherbot/blob/master/screenshots/screencapture-1.png" class="card-img" alt="" />
+      <img align="left" src="https://drive.google.com/file/d/1iisQefyG_xHkKsEd9mSMqYtxuBkw5koX/view?usp=drive_link" class="card-img" alt="" />
     </div>
